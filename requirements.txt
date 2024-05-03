@@ -5,7 +5,7 @@ numpy>=1.17.4
 phonemizer~=2.2.1
 ruamel.yaml>=0.16.6
 tensorflow>=2.2.0
-tqdm==4.40.1
+tqdm==4.66.3
 p_tqdm
 soundfile
 webrtcvad
